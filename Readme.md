@@ -2,6 +2,7 @@ Birthday Gift XNA
 =========
 
 Author: Joel Kemp, [@mrjoelkemp](https://twitter.com/mrjoelkemp)
+
 Created: Spring, 2011
 
 ### Purpose
@@ -14,10 +15,14 @@ and would dictate a price tag outside of the target market's range. I also used 
 the best distribution channel for this idea.
 
 #### Details
+
 The game was built using C# and XNA. You can see a [video of the gameplay](http://youtu.be/et1Hrq3uurs).
 
 The game mechanics are similar to pong. The player controls me, a romantic whose only goal is to 
 deliver kisses to his beautiful damsel. 
 
 #### Controls
-Kisses are given by pressing the spacebar and I may be moved using the up and down arrow keys. 
+
+Space Bar: Throw kisses
+ 
+Up/Down Arrows: Move me
